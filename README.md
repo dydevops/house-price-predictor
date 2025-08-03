@@ -1,4 +1,4 @@
-# ?? House Price Predictor using Django + ML
+# House Price Predictor using Django + ML
 
 A web-based application built with **Django** that allows users to:
 
@@ -9,7 +9,7 @@ A web-based application built with **Django** that allows users to:
 
 ---
 
-## ?? Features
+## Features
 
 ? Upload CSV files from Django Admin  
 ? Predict price based on form input  
@@ -23,7 +23,7 @@ A web-based application built with **Django** that allows users to:
 
 ---
 
-## ?? Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - Django 4.2+
@@ -36,9 +36,9 @@ A web-based application built with **Django** that allows users to:
 
 ---
 
-## ?? Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/house-price-predictor.git
+git clone https://github.com/dydevops/house-price-predictor.git
 cd house-price-predictor
